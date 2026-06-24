@@ -10,7 +10,7 @@ A classic word-guessing game you can play right in your terminal. Guess the hidd
 ### How to Play
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/hangman.git
+   git clone https://github.com/xpreacher/hangman.git
    cd hangman
    python hangman.py
 
